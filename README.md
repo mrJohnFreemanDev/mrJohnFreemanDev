@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/mrJohnFreemanDev/mrJohnFreemanDev/main/banner.png" alt="MJFW Dev Banner" width="100%"/>
 # 👋 Hi, I'm Ivan Mudriakov
 
 I'm a full-stack web developer and Telegram bot engineer from Russia 🇷🇺  
