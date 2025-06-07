@@ -18,14 +18,15 @@ I specialize in clean automation, real-time data tools, and making tech feel ali
 
 ## 🚀 Projects
 
-| Project               | Description                                                                 | Repository Link                                                                 |
-|------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| 🪙 **Crypto Bot**         | Real-time crypto prices and history from Binance                           | [cryptoCurrencyMJFWbot](https://github.com/mrJohnFreemanDev/cryptoCurrencyMJFWbot) |
-| ☁️ **Weather Bot**        | Live weather data with emoji-enhanced responses                            | [weatherMJFWbot](https://github.com/mrJohnFreemanDev/weatherMJFWbot)               |
-| 🛡️ **Chat Moderator Bot** | Telegram chat moderation with banned word filtering and temp bans          | [chatMJFWbot](https://github.com/mrJohnFreemanDev/chatMJFWbot)                     |
-| 📰 **RU News Bot**        | 🇷🇺 Russian-language RSS news bot with full-article preview for Telegram       | [newsMJFWbot](https://github.com/mrJohnFreemanDev/newsMJFWbot)                     |
-| 🌍 **EN News Bot**        | 🌐 English-language RSS bot with Playwright-powered full-article parsing | [ENnewsMJFWbot](https://github.com/mrJohnFreemanDev/ENnewsMJFWbot)                 |
-| 🎱 **Magic 8 Ball Bot**   | Fortune-telling bot with voice answers, emoji, and yes/no logic             | [m8all_MJFW_bot](https://github.com/mrJohnFreemanDev/m8all_MJFW_bot)               |
+| Project                   | Description                                                                                     | Repository Link                                                                 |
+|---------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| 🪙 **Crypto Bot**          | Real-time crypto prices and history from Binance                                                | [cryptoCurrencyMJFWbot](https://github.com/mrJohnFreemanDev/cryptoCurrencyMJFWbot) |
+| ☁️ **Weather Bot**         | Live weather data with emoji-enhanced responses                                                 | [weatherMJFWbot](https://github.com/mrJohnFreemanDev/weatherMJFWbot)               |
+| 🛡️ **Chat Moderator Bot**  | Telegram chat moderation with banned word filtering and temp bans                               | [chatMJFWbot](https://github.com/mrJohnFreemanDev/chatMJFWbot)                     |
+| 📰 **RU News Bot**         | 🇷🇺 Russian-language RSS news bot with full-article preview for Telegram                         | [newsMJFWbot](https://github.com/mrJohnFreemanDev/newsMJFWbot)                     |
+| 🌍 **EN News Bot**         | 🌐 English-language RSS bot with Playwright-powered full-article parsing                        | [ENnewsMJFWbot](https://github.com/mrJohnFreemanDev/ENnewsMJFWbot)                 |
+| 🎱 **Magic 8 Ball Bot**    | Fortune-telling bot with voice answers, emoji, and yes/no logic                                 | [m8all_MJFW_bot](https://github.com/mrJohnFreemanDev/m8all_MJFW_bot)               |
+| 🧩 **M.W.show.parserMJFW** | Smart episode parser for the Russian TV show “Мужское / Женское” with content filtering logic | [M.W.show.parserMJFW](https://github.com/mrJohnFreemanDev/M.W.show.parserMJFW)     |
 
 ---
 
