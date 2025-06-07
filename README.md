@@ -20,7 +20,7 @@ I specialize in clean automation, real-time data tools, and making tech feel ali
 
 | Project                   | Description                                                                                     | Repository Link                                                                 |
 |---------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| 🪙 **Crypto Bot**          | Real-time crypto prices and history from Binance                                                | [cryptoCurrencyMJFWbot](https://github.com/mrJohnFreemanDev/cryptoCurrencyMJFWbot) |
+| 📈 **Crypto Bot**          | Real-time crypto prices and history from Binance                                                | [cryptoCurrencyMJFWbot](https://github.com/mrJohnFreemanDev/cryptoCurrencyMJFWbot) |
 | ☁️ **Weather Bot**         | Live weather data with emoji-enhanced responses                                                 | [weatherMJFWbot](https://github.com/mrJohnFreemanDev/weatherMJFWbot)               |
 | 🛡️ **Chat Moderator Bot**  | Telegram chat moderation with banned word filtering and temp bans                               | [chatMJFWbot](https://github.com/mrJohnFreemanDev/chatMJFWbot)                     |
 | 📰 **RU News Bot**         | 🇷🇺 Russian-language RSS news bot with full-article preview for Telegram                         | [newsMJFWbot](https://github.com/mrJohnFreemanDev/newsMJFWbot)                     |
