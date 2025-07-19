@@ -27,7 +27,7 @@ I specialize in clean automation, real-time data tools, and making tech feel ali
 | 🌍 **EN News Bot**           | 🌐 English-language RSS bot with Playwright-powered full-article parsing                        | [ENnewsMJFWbot](https://github.com/mrJohnFreemanDev/ENnewsMJFWbot)                 |
 | 🎱 **Magic 8 Ball Bot**      | Fortune-telling bot with voice answers, emoji, and yes/no logic                                 | [m8all_MJFW_bot](https://github.com/mrJohnFreemanDev/m8all_MJFW_bot)               |
 | 🧩 **M.W.show.parser**       | Smart episode parser for the Russian TV show “Мужское / Женское” with content filtering logic   | [M.W.show.parser](https://github.com/mrJohnFreemanDev/M.W.show.parserMJFW)         |
-| 🆔 **Get MyTG id byMJFW**    | All-in-one Telegram chat/channel ID & activity logger — get chat IDs, user IDs, logs, and more  | [Get_MyTG_id_byMJFW](https://github.com/mrJohnFreemanDev/Get_MyTG_id_byMJFW)       |
+| 🆔 **Get MyTG id**           | All-in-one Telegram chat/channel ID & activity logger — get chat IDs, user IDs, logs, and more  | [Get_MyTG_id_byMJFW](https://github.com/mrJohnFreemanDev/Get_MyTG_id_byMJFW)       |
 
 ---
 
